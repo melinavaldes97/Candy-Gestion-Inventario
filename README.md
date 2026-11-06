@@ -26,7 +26,6 @@ Herramientas utilizadas
 Git: control de versiones.
 GitHub: alojamiento y colaboración.
 Draw.io: elaboración de diagramas BPMN.
-Markdown: documentación del proyecto.
 
 Organización del repositorio
 
